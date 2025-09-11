@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi, I'm first year ICT student at LAB university of applied sciences. Currently studies have included: html web building and beginner programming, later with python. I'm also including japanese language to the studies.
+
+Goals are simply to learn and grow to be efficient programmer, with versatile language skills and grounded problem solving skills.
+
+Others than studies, my life include strongman training and current work in security services. *There might also be some D&D related nonsensical chaos in downtime.*
+
+To learn more (read: see my face) https://www.instagram.com/rothvill/ 
+and i can be reached by my (student email for now) ville.roth@student.lab.fi
+
 <!--
 **RothVA/RothVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
