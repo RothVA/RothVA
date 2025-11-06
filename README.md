@@ -1,14 +1,11 @@
 # Hi, I'm Ville! <br>
 A First year ICT student at LAB university of applied sciences. <br>🌱 Currently studies have included: html web building and programming with python. <br> My language skills: Finnish (native) and English (i manage), also i'm studying on including Japanese (beginner).<br>My goals are simply to learn and grow to be efficient programmer, with versatile language skills and grounded problem solving skills.<br>⚡Others than studies, my life include strongman training and current work in security services. <br> *There also might be some D&D related nonsensical chaos in downtime.*
 
-
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RothVA/RothVA/output/github-stats.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RothVA/RothVA/output/github-stats-dark.png">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&theme=crt">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&screen_effect=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&theme=crt&dithering=true">
 </picture>
-
-
 
 
 ## 🌐 Socials
