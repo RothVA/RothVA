@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: generate github stats card
-        uses: RothVA/pixel-profile/action@main
+        uses: RothVA/RothVA/action@main
         with:
           outputs: |
             dist/github-stats?username=RothVA&screen_effect=false&theme=crt&dithering=true&hide=avatar
