@@ -4,7 +4,7 @@ A First year ICT student at LAB university of applied sciences. <br>🌱 Current
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&theme=crt">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&screen_effect=true">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&theme=crt&dithering=true&pixelate_avatar=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=RothVA&theme=crt&dithering=true">
 </picture>
 
 
